@@ -1,3 +1,3 @@
-export const PLATFORM_NAME = "Abode Garage Door";
+export const PLATFORM_NAME = "Abode Garage Doors";
 
-export const PLUGIN_NAME = "homebridge-abode-garage-door";
+export const PLUGIN_NAME = "homebridge-abode-garage-doors";
